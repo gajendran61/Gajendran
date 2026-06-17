@@ -4,14 +4,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=12,20,24,30&text=PROJECT%20NEURAL-CORE&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20LAB%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI&descAlignY=60"/>
 </p>
 
-<h1 align="center">🧠 PROJECT NEURAL-CORE</h1>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=GAJENDRAN&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=60"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Gajendran</h1>
 
 <h3 align="center">
-⚡ AI & Machine Learning Engineer • Generative AI • NLP • LLM Systems ⚡
+AI & Machine Learning Engineer • Generative AI • Prompt Engineering • NLP • LLM Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Initializing+Neural+Core...;Loading+Machine+Learning+Modules...;Loading+Generative+AI+Systems...;Activating+Prompt+Engineering+Engine...;Connecting+LLM+Infrastructure...;RAG+Systems+Online...;AI+Research+Terminal+Ready..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Prompt+Engineering+Specialist;NLP+%7C+LLM+Applications;Building+Scalable+AI+Solutions;Transforming+Data+Into+Intelligence" />
 </p>
 
 <p align="center">
